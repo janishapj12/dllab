@@ -1,0 +1,20 @@
+ Task 1 – 
+
+- More units improved learning; too few caused underfitting.
+- More epochs helped, small batch size slowed training but gave smoother results.
+- Optimizing units, epochs, and batch size is important for better predictions.
+
+
+ Task 2 – 
+
+- Normalizing prices helps the model learn faster and stably.
+- Dropout prevents overfitting.
+- Predicted prices closely following actual prices indicate good learning.
+- More units/layers improve accuracy but increase training time.
+
+
+Task 3 – 
+- Bidirectional LSTM gave better accuracy/F1-score than unidirectional.
+- Dropout helped prevent overfitting.
+- Larger embeddings and more units improved learning but took longer.
+- Bidirectional LSTM captures context from both directions, making it better for text.
